@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Ponomarenko Ilya
+Main-Class: info.kgeorgiy.ja.ponomarenko.implementor.Implementor
